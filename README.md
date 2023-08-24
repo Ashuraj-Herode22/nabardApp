@@ -1,7 +1,7 @@
 # nabardApp
 A react native based application.
 
-Team: 
+Team mates: 
 1. Ashuraj Herode
 2. Vibodh Bhosure
 3. Suyog Havare
